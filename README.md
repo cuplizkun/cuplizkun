@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @cuplizkun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Cara Install Scripts
 
-<!---
-cuplizkun/cuplizkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg update && pkg upgrade
+
+pkg install python
+
+pkg install git
+
+pip install stdiomask
+
+pip install requests
+
+pip install bs4
+
+pip install simplejson
+
+pip install requests
+
+pip install futures
+
+git clone https://github.com/exploid-nitch/ighe
+
+Cara Menjalankan Scripts
+
+cd ighe
+
+python run.py
